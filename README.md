@@ -43,3 +43,9 @@ Configure Gigabit g0/0, g0/1 g0/2
 <img width="637" height="332" alt="Gigabit1" src="https://github.com/user-attachments/assets/eaaf8145-32ab-435a-aa22-7da21cfd7522" />
 <img width="633" height="469" alt="Gigabit2" src="https://github.com/user-attachments/assets/ea4f3252-b783-4592-a9f8-3655775edcd1" />
 
+
+All interfaces all interfaces up after being Configured
+
+<img width="600" height="66" alt="showipbrief" src="https://github.com/user-attachments/assets/5cc46305-8c9f-4cb5-9d04-b4957b493fb8" />
+
+
