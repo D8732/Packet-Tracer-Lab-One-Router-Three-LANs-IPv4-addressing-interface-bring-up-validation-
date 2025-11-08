@@ -60,5 +60,9 @@ show running-config
 <img width="207" height="60" alt="Save config" src="https://github.com/user-attachments/assets/a9690955-a664-4846-8c8d-3357447d9031" />
 
 
+# Statically Configure end host with Ip address then test ping command for connectivity
 
+<img width="677" height="304" alt="Setip" src="https://github.com/user-attachments/assets/7f2e8ae7-8de0-4f87-b0a0-55186c73239f" />
+
+<img width="1067" height="299" alt="ping to Pc2" src="https://github.com/user-attachments/assets/184d76f2-7b5d-454a-b650-7424f4cf78d0" />
 
