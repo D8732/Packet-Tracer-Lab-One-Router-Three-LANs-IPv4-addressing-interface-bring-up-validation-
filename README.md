@@ -36,4 +36,4 @@ show running-config
 
 
 # Show ip interface brief shows interfaces down before being configured
-"C:\Users\USER\OneDrive\Pictures\Screenshots\Interfaces command.png" 
+<img width="627" height="96" alt="Interfaces command" src="https://github.com/user-attachments/assets/8de133f2-f465-4a52-bfff-534368e03cd2" />
