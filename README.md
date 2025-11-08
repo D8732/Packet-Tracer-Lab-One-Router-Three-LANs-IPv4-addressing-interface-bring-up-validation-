@@ -17,11 +17,19 @@ Persisting configuration with write memory
 
 # key commands used
 show ip interface brief
+
 conf t
+
 interface gi0/0 | gi0/1 | gi0/2
+
  description ...
+ 
  ip address A.B.C.D MASK
+ 
  no shutdown
+ 
 end
+
 write memory
+
 show running-config
