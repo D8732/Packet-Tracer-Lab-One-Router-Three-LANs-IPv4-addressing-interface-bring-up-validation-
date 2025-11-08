@@ -35,5 +35,11 @@ write memory
 show running-config
 
 
-# Show ip interface brief shows interfaces down before being configured
+ Show ip interface brief shows interfaces down before being configured
 <img width="627" height="96" alt="Interfaces command" src="https://github.com/user-attachments/assets/8de133f2-f465-4a52-bfff-534368e03cd2" />
+
+Configure Gigabit g0/0, g0/1 g0/2
+<img width="632" height="218" alt="Gigabit0" src="https://github.com/user-attachments/assets/8d42be44-ea35-48d7-a7c7-f622d7a59d18" />
+<img width="637" height="332" alt="Gigabit1" src="https://github.com/user-attachments/assets/eaaf8145-32ab-435a-aa22-7da21cfd7522" />
+<img width="633" height="469" alt="Gigabit2" src="https://github.com/user-attachments/assets/ea4f3252-b783-4592-a9f8-3655775edcd1" />
+
