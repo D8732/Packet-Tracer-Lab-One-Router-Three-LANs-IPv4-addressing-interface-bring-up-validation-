@@ -26,7 +26,7 @@ interface gi0/0 | gi0/1 | gi0/2
  
  ip address A.B.C.D MASK
  
- no shutdown
+  no shutdown
  
 end
 
@@ -34,18 +34,31 @@ write memory
 
 show running-config
 
+# Show ip interface brief shows interfaces down before being configured
 
- Show ip interface brief shows interfaces down before being configured
 <img width="627" height="96" alt="Interfaces command" src="https://github.com/user-attachments/assets/8de133f2-f465-4a52-bfff-534368e03cd2" />
 
-Configure Gigabit g0/0, g0/1 g0/2
+# Configure Gigabit g0/0, g0/1 g0/2
+
 <img width="632" height="218" alt="Gigabit0" src="https://github.com/user-attachments/assets/8d42be44-ea35-48d7-a7c7-f622d7a59d18" />
 <img width="637" height="332" alt="Gigabit1" src="https://github.com/user-attachments/assets/eaaf8145-32ab-435a-aa22-7da21cfd7522" />
 <img width="633" height="469" alt="Gigabit2" src="https://github.com/user-attachments/assets/ea4f3252-b783-4592-a9f8-3655775edcd1" />
 
 
-All interfaces all interfaces up after being Configured
+# All interfaces all interfaces up after being Configured
 
 <img width="600" height="66" alt="showipbrief" src="https://github.com/user-attachments/assets/5cc46305-8c9f-4cb5-9d04-b4957b493fb8" />
+
+# Show Running Config
+
+<img width="332" height="165" alt="sh config" src="https://github.com/user-attachments/assets/28139955-5560-40e2-ba3b-d9a586ace3b6" />
+
+<img width="320" height="224" alt="shconfig" src="https://github.com/user-attachments/assets/5c7407d9-7fcc-433d-9cac-15de665c827c" />
+
+# Save Configuration
+
+<img width="207" height="60" alt="Save config" src="https://github.com/user-attachments/assets/a9690955-a664-4846-8c8d-3357447d9031" />
+
+
 
 
