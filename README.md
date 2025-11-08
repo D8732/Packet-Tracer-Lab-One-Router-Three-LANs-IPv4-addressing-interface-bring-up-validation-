@@ -33,3 +33,7 @@ end
 write memory
 
 show running-config
+
+
+# Show ip interface brief shows interfaces down before being configured
+"C:\Users\USER\OneDrive\Pictures\Screenshots\Interfaces command.png" 
