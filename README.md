@@ -1,4 +1,4 @@
-# Packet-Tracer-Project-One-Router-Three-LANs-IPv4-addressing-interface-bring-up-validation-
+# Packet Tracer Project One Router Three LANs IPv4 addressing interface bring up validation
 Cisco IOS basics: interface configuration, subnetting (/8, /16, /24), device IP setup, persistent save, and ICMP reachability tests
 
 
